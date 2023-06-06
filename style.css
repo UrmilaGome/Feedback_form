@@ -1,0 +1,44 @@
+.main{
+    width: 500px;
+    height: 750px;
+    position: relative;
+   margin: 300px;
+   left:-270px;
+   top: 40px;
+}
+span i{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+}
+p{
+    position: relative;
+    margin-left: 80px;
+}
+.one{
+    width: 500px;
+    height: 370px;
+    background: linear-gradient(180deg, rgb(82, 82, 161), rgb(29, 22, 74));
+    border-radius: 10px;
+   position:relative;
+   left: 500px;
+   bottom: 120px;
+
+}
+span{
+    position: relative;
+    left: 10px;
+}
+  span i:hover{
+    transition:  all ease-in-out 0.01s;
+    transform: scale(120%);
+}
+
+select{
+    color: black;
+}
+  
+
+
+
